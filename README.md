@@ -1,5 +1,7 @@
 # Desafio: Batalha Naval (C)
 
+Build: (configure GitHub Actions com um workflow simples de build, se desejar)
+
 Este programa em C cria um tabuleiro 10x10 de Batalha Naval, posiciona quatro navios de tamanho 3 (um horizontal, um vertical e dois diagonais), valida limites e sobreposição, e exibe o tabuleiro no console. Também cria e sobrepõe áreas de efeito de habilidades (cone, cruz, octaedro) sobre o tabuleiro.
 
 ## Requisitos atendidos
